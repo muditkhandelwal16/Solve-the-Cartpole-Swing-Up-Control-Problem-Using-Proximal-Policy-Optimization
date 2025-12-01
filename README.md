@@ -78,7 +78,7 @@ python plot_ppo_cartpole.py
 ## 📄 Report
 
 ### A full IEEE-style report is included:  
-- ![cartpole_report_Mudit_khandelwa](cartpole_report_Mudit_khandelwal.pdf)
+- ![cartpole_report_Mudit_khandelwa](cart_pole_using_an_actor_critic_Mudit_khandelwal.pdf)
 ### The report discusses:  
 -Approach and PPO methodology  
 -Hyperparameters  
