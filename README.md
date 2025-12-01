@@ -17,15 +17,15 @@ This project was completed as part of a Reinforcement Learning assignment, with 
 
 ---
 .
-├── ppo_cartpole_train.py # Training script (seeds 0, 1, 2)
-├── eval_ppo_seed10.py # Evaluation script (seed 10)
-├── plot_ppo_cartpole.py # Plot training/evaluation learning curves
-├── ppo_cartpole_training_curve.png
-├── ppo_cartpole_eval_curve.png
-├── report.tex # IEEE-format LaTeX report
-├── requirements.txt # Full list of dependencies
-├── README.md # Project documentation
-└── .gitignore # Ignore venv and temporary files
+├── ppo_cartpole_train.py # Training script (seeds 0, 1, 2)  
+├── eval_ppo_seed10.py # Evaluation script (seed 10)  
+├── plot_ppo_cartpole.py # Plot training/evaluation learning curves  
+├── ppo_cartpole_training_curve.png  
+├── ppo_cartpole_eval_curve.png  
+├── report.tex # IEEE-format LaTeX report  
+├── requirements.txt # Full list of dependencies  
+├── README.md # Project documentation  
+└── .gitignore # Ignore venv and temporary files  
 ---
 
 ## 📊 Plots
@@ -46,8 +46,7 @@ Performance over environment steps.
 
 ### Clone the repository:
 
-```
-bash
+```bash
 git clone https://github.com/muditkhandelwal16/Solve-the-Cartpole-Swing-Up-Control-Problem-Using-Proximal-Policy-Optimization.git
 cd Solve-the-Cartpole-Swing-Up-Control-Problem-Using-Proximal-Policy-Optimization
 ```
@@ -79,7 +78,7 @@ python plot_ppo_cartpole.py
 ## 📄 Report
 
 ### A full IEEE-style report is included:  
-- report.tex
+- ![cartpole_report_Mudit_khandelwa](cartpole_report_Mudit_khandelwal.pdf)
 ### The report discusses:  
 -Approach and PPO methodology  
 -Hyperparameters  
