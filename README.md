@@ -44,24 +44,25 @@ Performance over environment steps.
 
 ## 🛠 Installation
 
-###Clone the repository:
+### Clone the repository:
 
-```bash
+```
+bash
 git clone https://github.com/muditkhandelwal16/Solve-the-Cartpole-Swing-Up-Control-Problem-Using-Proximal-Policy-Optimization.git
 cd Solve-the-Cartpole-Swing-Up-Control-Problem-Using-Proximal-Policy-Optimization
 ```
-###Create and activate a virtual environment:
+### Create and activate a virtual environment:
 ```
 python -m venv rl_cartpole
 # Windows
 rl_cartpole\Scripts\activate
 
 ```
-###Install dependencies:
+### Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-##▶️ How to Run
+## ▶️ How to Run
 ### 1. Train the agent
 ```
 python ppo_cartpole_train.py
@@ -75,11 +76,11 @@ python eval_ppo_seed10.py
 python plot_ppo_cartpole.py
 ```
 
-##📄 Report
+## 📄 Report
 
-###A full IEEE-style report is included:  
+### A full IEEE-style report is included:  
 - report.tex
-###The report discusses:  
+### The report discusses:  
 -Approach and PPO methodology  
 -Hyperparameters  
 -Training procedure  
